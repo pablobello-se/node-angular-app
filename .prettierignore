@@ -133,8 +133,8 @@ dist
 # Configuration files
 *.json
 
-#app/.angular/ dir
-app/.*
+#ui/.angular/ dir
+ui/.*
 
 #.md files
 
