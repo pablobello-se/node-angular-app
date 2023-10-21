@@ -1,0 +1,16 @@
+{
+  "name": "angular-app",
+  "version": "1.0.0",
+  "description": "a complete stack, just for practising a bit",
+  "main": "index.js",
+  "scripts": {
+    "prettify": "npx prettier . --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
