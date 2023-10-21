@@ -1,2 +1,9 @@
 # node-angular-app
-a complete stack, just for practising a bit
+
+A complete MEAN application
+
+## pre-requisites
+
+Angular 16
+
+Node 18
